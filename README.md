@@ -1,0 +1,20 @@
+![Forecast24x7](https://raw.githubusercontent.com/iamsayedanowar/Full-fledged-Weather-App/refs/heads/main/img/GRP.png)
+
+# Forecast24x7
+
+Forecast24x7 is a web application that provides real-time weather updates based on the user's location or a specified location. It utilizes the OpenWeatherMap API to fetch weather data and displays it in an easy-to-understand format.
+
+## Instructions
+
+Before running the project, you need to add your `OpenWeatherMap API` key to the `api.js` file. Inside the `api.js` file, you will find a variable named `api_key`. Replace `YOUR_API_KEY` with your actual `OpenWeatherMap API` key. Save the `api.js` file after making this change. This step is necessary to authenticate your requests to the OpenWeatherMap API and access weather data in your application.
+
+## Features
+
+- Real-time Weather Updates
+- Responsive Design
+- Location-Based Weather
+- Simple and Intuitive Interface
+
+## Tech Stack
+
+**Front-End :** HTML, CSS, JavaScript
